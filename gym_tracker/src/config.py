@@ -50,5 +50,8 @@ exercises = {
     "Russian Twist (with weight)": ["Abs"],
     "Lateral Raise (cable)": ["Shoulders"],
     "Front Raise (cable)": ["Shoulders"],
-    "Reverse Fly (cable)": ["Shoulders"]
+    "Reverse Fly (cable)": ["Shoulders"],
+    "Reverse Butterfly": ["Shoulders"],
+    "Seated Back Pull": ["Back", "Biceps", "Forearms"],
+    "Toe Touch": ["Abs"],
 }
